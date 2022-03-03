@@ -6,5 +6,3 @@ w.title("فرم محاسبه وام")
 
 def f1():
     return
-
-
